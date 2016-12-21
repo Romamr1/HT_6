@@ -1,0 +1,9 @@
+.list{
+    width: 200px;
+    background-color: #e3e3e3;
+    padding: 10px;
+    border: 1px solid #999;
+    vertical-align: top;    
+    display: inline-block;
+}
+
